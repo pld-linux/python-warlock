@@ -6,12 +6,12 @@
 
 Summary:	Python object model built on JSON schema and JSON patch
 Name:		python-warlock
-Version:	1.3.0
-Release:	3
+Version:	1.3.3
+Release:	1
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/w/warlock/warlock-%{version}.tar.gz
-# Source0-md5:	61cc809a3af2c76288f4dd26a003932d
+# Source0-md5:	746aba989d97762948e5fca6601f283f
 URL:		https://pypi.python.org/pypi/warlock
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
