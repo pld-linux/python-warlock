@@ -7,7 +7,7 @@
 Summary:	Python object model built on JSON schema and JSON patch
 Name:		python-warlock
 Version:	1.3.3
-Release:	3
+Release:	4
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/w/warlock/warlock-%{version}.tar.gz
